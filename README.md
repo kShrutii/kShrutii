@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**kShrutii/kShrutii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
+## 💫 About Me:
 🔭I’m currently working on Oracle Planning tools (Essbase, EPBCS, FCCS, TRCS) & automation scripts in finance domain<br>👯I’m looking to collaborate on Full Stack projects (React + Java) and real-world web applications<br>🤝 I’m looking for help with Advanced React architecture, backend optimization & enterprise-level systems<br>🌱 I’m currently learning Advanced Java, React ecosystem, and cloud-based enterprise tools<br>💬 Ask me about: ReactJS, Java, SQL, Oracle Planning (EPBCS/ FCCS), and Web Development<br>⚡ Fun fact: I turn coffee ☕ into clean code and love mixing creativity with tech 🎨💻
 
 
@@ -27,4 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=kShrutii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
